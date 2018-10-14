@@ -2,6 +2,7 @@
 
 [![CircleCi Status][circleci-status-img]][circleci-status-url]
 [![Coverage Status][coverage-status-img]][coverage-status-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnodar-chkuaselidze%2Fbmultisig.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnodar-chkuaselidze%2Fbmultisig?ref=badge_shield)
 
 bmultisig is a [bcoin][bcoin] plugin which adds multisig wallet http endpoints and events to bwallet for payment proposals.
 
@@ -21,6 +22,9 @@ $ bmultisig
 If you contribute code to this project, you are implicitly allowing your code
 to be distributed under the MIT license. You are also implicitly verifying that
 all code is your original work. `</legalese>`
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnodar-chkuaselidze%2Fbmultisig.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnodar-chkuaselidze%2Fbmultisig?ref=badge_large)
 
 ## License
 
